@@ -1,7 +1,9 @@
 package second;
 
 import java.util.Scanner;
-
+// Program to swap two numbers using
+// temp variable &
+// without temp variable.
 public class Eleven {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);

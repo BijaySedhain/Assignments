@@ -2,6 +2,8 @@ package third;
 
 import java.util.Scanner;
 
+
+// Find the type of triangle
 public class Nineteen {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);

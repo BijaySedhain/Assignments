@@ -2,6 +2,8 @@ package third;
 
 import java.util.Scanner;
 
+
+// Sum to Nth number
 public class TwentyThree {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);

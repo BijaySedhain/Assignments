@@ -2,6 +2,7 @@ package third;
 
 import java.util.Scanner;
 
+//Calculate the leap year
 public class Seventeen {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);

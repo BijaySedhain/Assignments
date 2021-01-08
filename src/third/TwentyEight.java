@@ -2,6 +2,8 @@ package third;
 
 import java.util.Scanner;
 
+
+//Prime Number
 public class TwentyEight {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);

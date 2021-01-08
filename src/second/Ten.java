@@ -2,6 +2,8 @@ package second;
 
 import java.util.Scanner;
 
+
+//Mathematical Function
 public class Ten {
     public static void main(String[] args) {
         A ();

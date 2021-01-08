@@ -2,6 +2,8 @@ package third;
 
 import java.util.Scanner;
 
+
+// Multiplication table of a number
 public class TwentyTwo {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);

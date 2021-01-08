@@ -2,6 +2,8 @@ package third;
 
 import java.util.Scanner;
 
+
+//Whether the number is odd or even
 public class Sixteen {
     public static void main (String [] args ) {
         Scanner input = new Scanner(System.in);

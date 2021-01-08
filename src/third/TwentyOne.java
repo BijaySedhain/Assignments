@@ -2,6 +2,8 @@ package third;
 
 import java.util.Scanner;
 
+
+// Weekdays
 public class TwentyOne {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);

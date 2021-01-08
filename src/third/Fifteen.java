@@ -2,6 +2,8 @@ package third;
 
 import java.util.Scanner;
 
+
+//Recieve ASCII code and display its Character.
 public class Fifteen {
     public static void main(String[] args) {
         Scanner input= new Scanner(System.in);

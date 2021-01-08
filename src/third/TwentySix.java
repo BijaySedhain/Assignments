@@ -2,6 +2,8 @@ package third;
 
 import java.util.Scanner;
 
+
+//Reverse the number
 public class TwentySix {
     public static void main(String[] args) {
 

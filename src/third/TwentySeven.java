@@ -2,6 +2,8 @@ package third;
 
 import java.util.Scanner;
 
+
+//Sum and Product of digits
 public class TwentySeven {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
